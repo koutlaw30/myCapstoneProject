@@ -10,3 +10,17 @@
 * How to extract the current Induction and Production data from the Master Scheduling Support Tool
 * How to replace the old extracted files with the new files
 * How to change the Power BI report scheduled refresh setting
+
+Virtual Environment Set Up
+
+### Run the command python3 -m venv venv
+### Activate the virtual environment
+On macOS and Linux source venv/bin/activate
+On Windows: .\venv\Scripts\activate
+Ensure the environment is activate and then install the packages listed in requirements.text by running: pip install -r requirements.txt
+
+### Project Libraries to Import
+Pandas
+Numpy
+Seaborn
+Matplotlib
