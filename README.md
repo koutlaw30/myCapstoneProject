@@ -14,9 +14,10 @@
 ### Virtual Environment Set Up
 
 * Run the command python3 -m venv venv
-Activate the virtual environment
-On Windows: .\venv\Scripts\activate
-On macOS and Linux source venv/bin/activate
+
+### Activate the virtual environment
+* On Windows: .\venv\Scripts\activate
+* On macOS and Linux source venv/bin/activate
 
 ### Project Libraries to Import
 * Pandas
