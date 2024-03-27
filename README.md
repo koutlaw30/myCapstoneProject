@@ -27,5 +27,6 @@
 
 ### How to Run the Executeable file
 * Download the files in the raw_data folder
+* Download the EDA.ipynb file
 * Create a folder on local computer and Paste the dowloaded files in the created folder
-* Refer to this folder path when reading the csv files
+* Open the EDA.ipynb file and refer to this folder path when reading the csv files
