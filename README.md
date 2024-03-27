@@ -19,7 +19,7 @@ On Windows: .\venv\Scripts\activate
 On macOS and Linux source venv/bin/activate
 
 ### Project Libraries to Import
-Pandas
-Numpy
-matplotlib
-Seaborn
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
