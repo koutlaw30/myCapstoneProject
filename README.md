@@ -24,3 +24,8 @@
 * Numpy
 * Matplotlib
 * Seaborn
+
+### How to Run the Executeable file
+* Download the files in the raw_data folder
+* Create a folder on local computer and Paste the dowloaded files in the created folder
+* Refer to this folder path when reading the csv files
